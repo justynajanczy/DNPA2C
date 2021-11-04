@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyssLDjAuvg3Ro3pC4Vy/kq1G1Nrm2nBYeXCQUHfBF6yxsAY0FIMZvBiCQ3+jhTmpnk5o5TLI4oK8OllvbSjcw==",
+  "success": true,
+  "projectFilePath": "C:\\STUDIA\\3.1\\DNP\\Assignments\\Assignment2\\Assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justy\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
+    "C:\\Users\\justy\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
